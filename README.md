@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Kanswal</h1>
-<h3 align="center">A passionate frontend developer from India working towards full stack</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **React.js**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshucode](https://github.com/divyanshucode)
 
-- 💬 Ask me about **react.js , javascript**
+- 💬 Ask me about **react.js , javascript** ,**Nodejs**,**DB**
 
 - 📫 How to reach me **kanswaldivyanshu@gmail.com**
 
